@@ -1,5 +1,5 @@
 # Fan-Speed-Controller-with-Temperature
-• Developing a system that controls the speed of a fan depending on the temperature. 
-• Drivers:
-GPIO, ADC, PWM, LM35 Sensor, LCD and DC-Motor
+• Developing a system that controls the speed of a fan depending on the temperature.<br> 
+• Drivers:<br>
+GPIO, ADC, PWM, LM35 Sensor, LCD and DC-Motor<br>
 • Microcontroller: ATmega32.
